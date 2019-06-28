@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Mike27",
+	"Description": "Mike27 game logic",
+	"Category": "Gameplay",
+	"CreatedBy": "Matteo Lorenzo Nasci , Marco Rinaldi",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Mike27",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
